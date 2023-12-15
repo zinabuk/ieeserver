@@ -1,0 +1,57 @@
+[
+    {
+        "email": "john@example.com",
+        "password": "password123",
+        "phoneNumber": "1234567890",
+        "role": "admin",
+        "firstName": "John",
+        "middleName": "Doe",
+        "lastName": "Smith",
+        "photo": "profile.jpg",
+        "sex": "male"
+    },
+    {
+        "email": "jane@example.com",
+        "password": "password456",
+        "phoneNumber": "9876543210",
+        "role": "staff",
+        "firstName": "Jane",
+        "middleName": "A.",
+        "lastName": "Doe",
+        "photo": "profile.jpg",
+        "sex": "female"
+    },
+    {
+        "email": "bob@example.com",
+        "password": "password789",
+        "phoneNumber": "5555555555",
+        "role": "student",
+        "firstName": "Bob",
+        "middleName": "B.",
+        "lastName": "Johnson",
+        "photo": "profile.jpg",
+        "sex": "male"
+    },
+    {
+        "email": "alice@example.com",
+        "password": "passwordabc",
+        "phoneNumber": "1111111111",
+        "role": "student",
+        "firstName": "Alice",
+        "middleName": "C.",
+        "lastName": "Williams",
+        "photo": "profile.jpg",
+        "sex": "female"
+    },
+    {
+        "email": "sam@example.com",
+        "password": "passwordxyz",
+        "phoneNumber": "9999999999",
+        "role": "student",
+        "firstName": "Sam",
+        "middleName": "D.",
+        "lastName": "Brown",
+        "photo": "profile.jpg",
+        "sex": "male"
+    }
+]
